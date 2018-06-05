@@ -1,0 +1,2 @@
+webpackJsonp([0x642faa78176c],{326:function(e,t){e.exports={data:{markdownRemark:{html:'<p>Καλά ε;; τέλειο;;;; τα σπάει λέμε!!.</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/c--etqIJcow?ecver=1" frameborder="0" allowfullscreen></iframe>',frontmatter:{title:"Είσαι μαλάκας"}}},pathContext:{slug:"/this-is-great/"}}}});
+//# sourceMappingURL=path---this-is-great-20e06574226cab382988.js.map

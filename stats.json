@@ -12,6 +12,10 @@
       "component---src-templates-blog-post-js-8f892849633af9e7202c.js",
       "component---src-templates-blog-post-js-8f892849633af9e7202c.js.map"
     ],
+    "path---this-is-great": [
+      "path---this-is-great-20e06574226cab382988.js",
+      "path---this-is-great-20e06574226cab382988.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-89ad373f145c9dc7e778.js",
       "component---src-layouts-index-js-89ad373f145c9dc7e778.js.map"
@@ -21,8 +25,8 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-582328374b48bfcbabfd.js",
-      "path---index-582328374b48bfcbabfd.js.map"
+      "path---index-8e23194cd51c43bd48c6.js",
+      "path---index-8e23194cd51c43bd48c6.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -45,9 +49,9 @@
       "path---first-blog-post-cb26c547f55fd7c96e65.js.map"
     ],
     "app": [
-      "app-87deae81e6abf12be273.js",
+      "app-7a8b81a0399af77c085f.js",
       "build-js-styles.css",
-      "app-87deae81e6abf12be273.js.map",
+      "app-7a8b81a0399af77c085f.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
